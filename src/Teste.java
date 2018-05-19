@@ -6,6 +6,8 @@ public class Teste {
 		System.out.println("Teste..");
 		
 		System.out.println("Teste 222...");
+		
+		// Teste em edição no GIT..
 	}
 
 }
